@@ -3033,7 +3033,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #222;
+				background: #912b74;
 				color: #fff;
 				min-width: 320px;
 			}
@@ -3079,7 +3079,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #60345A;
+						background: #9e2f91;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;

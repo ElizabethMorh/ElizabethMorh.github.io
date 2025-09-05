@@ -61,6 +61,7 @@
 
 			$nav_a
 				.addClass('scrolly')
+				.not('.external')
 				.on('click', function() {
 
 					var $this = $(this);
